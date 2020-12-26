@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 11 messages, Project-Id-Version: procps ' -D, --disk-sum         summarise disk statistics'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 17 messages, Project-Id-Version: procps '        --%s <%s|%s|%s|%s|%s|%s>'",
   "mode": "-rw-r--r--",
-  "sha1": "a3cad8b3adc292a7e668501543ffb0b158557a03"
+  "sha1": "11252965876e3ba93bc2f5bafc8414d434cbd521"
 }

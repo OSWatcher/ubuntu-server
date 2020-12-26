@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: dnsmasq",
   "mode": "-rw-r--r--",
-  "sha1": "e12fa952f594ebd05572b1d41b719d14d17ad35f"
+  "sha1": "7b2d7a07b36607e28161c873736f04ece452b7d9"
 }

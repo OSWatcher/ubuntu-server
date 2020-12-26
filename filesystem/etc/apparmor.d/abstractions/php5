@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "text/x-c",
   "inode_type": "REG",
-  "magic_type": "ASCII text",
+  "magic_type": "C source, ASCII text",
   "mode": "-rw-r--r--",
-  "sha1": "4a7f3cafece3834ad3d0a58b06d1e13d55ccdd21"
+  "sha1": "5bdf90db7842ef7bd4d3d120aa6ea48c68aef317"
 }

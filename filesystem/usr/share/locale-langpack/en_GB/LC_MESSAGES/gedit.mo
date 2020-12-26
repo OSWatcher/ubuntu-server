@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 44 messages, Project-Id-Version: gedit 'Add a new snippet\\342\\200\\246'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 32 messages, Project-Id-Version: gedit 'C_ommand colour:'",
   "mode": "-rw-r--r--",
-  "sha1": "114c74107bbab9962ef9403d75df2ea049065726"
+  "sha1": "a3441831a9946ef68d02b1dd8c1f5ea8fe05b1bf"
 }

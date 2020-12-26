@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-object",
-  "inode_type": "REG",
-  "magic_type": "ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), BuildID[sha1]=67a1e2fc433786139e40df9cb73e53ac6d32d554, not stripped",
-  "mode": "-rw-r--r--",
-  "sha1": "b64d11fecef1fe587f5573ac175315a439d9c9bc"
-}

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gdbm",
   "inode_type": "REG",
-  "magic_type": "GNU dbm 1.x or ndbm database, little endian, old",
+  "magic_type": "GNU dbm 1.x or ndbm database, little endian, 64-bit",
   "mode": "-rw-r--r--",
-  "sha1": "f624c3d0ee80a0c8b78305eda05c7397b479d0f8"
+  "sha1": "517848a4e71c76d88d89ae91705b4c474b75d971"
 }

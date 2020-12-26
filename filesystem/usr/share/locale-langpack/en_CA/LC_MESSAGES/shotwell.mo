@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 20 messages, Project-Id-Version: shotwell 'Adjust the photo's colour and tone'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 16 messages, Project-Id-Version: shotwell 'Delete all photos in Shotwell's Trash'",
   "mode": "-rw-r--r--",
-  "sha1": "955f37d41f5f6bc7e54190ed00975eb7318ccde4"
+  "sha1": "db715e9446f1b458db00e54c3687d2247401e72d"
 }

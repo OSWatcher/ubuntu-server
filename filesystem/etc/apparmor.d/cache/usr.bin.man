@@ -1,0 +1,7 @@
+{
+  "MIME": "application/octet-stream",
+  "inode_type": "REG",
+  "magic_type": "data",
+  "mode": "-rw-------",
+  "sha1": "885e5235916a0f860e7dcec18e44c3b9495c3e37"
+}

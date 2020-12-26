@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 6 messages, Project-Id-Version: devhelp 'A developer's help browser for GNOME'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 4 messages, Project-Id-Version: devhelp 'Book:'",
   "mode": "-rw-r--r--",
-  "sha1": "79f717e237ff1b16b31cc8bf003d66a703192966"
+  "sha1": "5c10b7f8e7ecebace6064aea01bfe1516dde25a0"
 }

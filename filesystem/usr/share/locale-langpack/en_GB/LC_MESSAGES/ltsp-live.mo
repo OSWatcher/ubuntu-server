@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: ltsp",
   "mode": "-rw-r--r--",
-  "sha1": "c18325320d2d5f1ca168591912b6c52e4e733938"
+  "sha1": "ed19d773577d177a30166aecd015a9f2d7bd4d0b"
 }

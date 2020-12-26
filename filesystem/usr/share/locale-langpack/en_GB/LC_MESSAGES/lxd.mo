@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 3 messages, Project-Id-Version: lxd 'Force using the local Unix socket.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 7 messages, Project-Id-Version: lxd '### This is a YAML representation of a storage pool.'",
   "mode": "-rw-r--r--",
-  "sha1": "7d770f2cb056e4d86bb45ea74c04fe664a716087"
+  "sha1": "b993d9d28b44c4e10c033a5dad138ed4232114b6"
 }

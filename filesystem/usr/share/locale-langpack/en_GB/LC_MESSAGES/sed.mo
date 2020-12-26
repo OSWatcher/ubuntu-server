@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: sed",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 9 messages, Project-Id-Version: sed 'Licence GPLv3+: GNU GPL version 3 or later <https://www.gnu.org/licenses/gpl.html>.'",
   "mode": "-rw-r--r--",
-  "sha1": "42757f665634538658621a62a6047f377a9c7fdd"
+  "sha1": "8bd750da451eabd62e7c0f540390b66fbb50613c"
 }

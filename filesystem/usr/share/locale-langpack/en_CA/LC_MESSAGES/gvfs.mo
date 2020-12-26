@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: gvfs",
   "mode": "-rw-r--r--",
-  "sha1": "f607c5e41cd85634f08dd3a55e70544ef8515739"
+  "sha1": "725452f6be9a237cb2997362f8c9eb34970e37ce"
 }

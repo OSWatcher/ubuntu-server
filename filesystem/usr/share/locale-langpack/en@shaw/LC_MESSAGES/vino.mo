@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 80 messages, Project-Id-Version: vino ' \\360\\220\\221\\271 '",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 60 messages, Project-Id-Version: vino '%s'\\360\\220\\221\\225 \\360\\220\\221\\256\\360\\220\\221\\246\\360\\220\\221\\245\\360\\220\\221\\264\\360\\220\\221\\221 \\360\\220\\221\\233\\360\\220\\221\\247\\360\\220\\221\\225\\360\\220\\221\\222\\360\\220\\221\\221\\360\\220\\221\\252\\360\\220\\221\\220 \\360\\220\\221\\252\\360\\220\\221\\257 %s'",
   "mode": "-rw-r--r--",
-  "sha1": "ad4f6c4855249a1ca23badf484e8d2d8b786ea87"
+  "sha1": "96ff0a8b1d731b332f0c66fc2e85c74748f61037"
 }

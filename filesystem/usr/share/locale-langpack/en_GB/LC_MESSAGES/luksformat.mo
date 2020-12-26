@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: cryptsetup",
   "mode": "-rw-r--r--",
-  "sha1": "4f01a50341f7bf18f0e1298d549f16b9b9356d6c"
+  "sha1": "809904021d0f3a634253b44cca5e2491ac7b4299"
 }

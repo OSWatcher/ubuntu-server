@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: libgdata 'The content type of the supplied document ('%s') could not be recognised.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: libgdata",
   "mode": "-rw-r--r--",
-  "sha1": "94a457e6510f2ff50c1cd04decdf263366544826"
+  "sha1": "f3c81f8dfe84b8ee9694b42d660baf6ac02c0c28"
 }

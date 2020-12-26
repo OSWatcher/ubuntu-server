@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 3 messages, Project-Id-Version: im-config '$IM_CONFIG_MSG'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: im-config 'This activates the bare XIM with the X Keyboard Extension for all software.'",
   "mode": "-rw-r--r--",
-  "sha1": "d2068aec2164bca5c419c2db4546616d877c8aa6"
+  "sha1": "97a59251f962f6f0053f629b2f630abb40048e30"
 }

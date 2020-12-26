@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: unity-scope-calculator",
   "mode": "-rw-r--r--",
-  "sha1": "93ee22d4ae1d940b2271e1f12031981691af72af"
+  "sha1": "45b378b26b8acb4ef1400b1e5151eeab416c8c90"
 }

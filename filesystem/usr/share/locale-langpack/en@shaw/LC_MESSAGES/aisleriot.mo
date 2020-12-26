@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 414 messages, Project-Id-Version: aisleriot '%d'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 414 messages, Project-Id-Version: gnome-games '%d'",
   "mode": "-rw-r--r--",
-  "sha1": "fac8b6bb22846e9f68e667f0b7493e14b9e76834"
+  "sha1": "8bdc359e2434fe5cfb6fb70fdcc5e2f3864391c8"
 }

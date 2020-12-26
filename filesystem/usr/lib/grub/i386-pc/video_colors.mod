@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), not stripped",
   "mode": "-rw-r--r--",
-  "sha1": "0bb63c60c975eda0d1262d659eda33ade8510c2c"
+  "sha1": "23c4634d0880d8df1a0341cd3ecc879eca8be23a"
 }

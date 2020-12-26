@@ -1,7 +1,7 @@
 {
   "MIME": "text/xml",
   "inode_type": "REG",
-  "magic_type": "XML 1.0 document, ASCII text",
+  "magic_type": "XML 1.0 document, ASCII text, with very long lines",
   "mode": "-rw-r--r--",
-  "sha1": "b4ba126b88937b60f88c81662312117440259080"
+  "sha1": "ac70d6330f61f9042bbf94410dfcd0d82dd3703e"
 }

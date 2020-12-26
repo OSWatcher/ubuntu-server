@@ -1,1 +1,1 @@
-{"relro": "No", "canary": true, "nx": true, "pie": "No", "rpath": false, "runpath": false, "symbols": false, "fortify_source": true, "fortified": 5, "fortifyable": 14, "fortify_score": 36}
+{"relro": "Full", "canary": true, "nx": true, "pie": "PIE", "rpath": false, "runpath": false, "symbols": false, "fortify_source": true, "fortified": 4, "fortifyable": 11, "fortify_score": 36}

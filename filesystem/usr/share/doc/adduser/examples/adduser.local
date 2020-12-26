@@ -2,6 +2,6 @@
   "MIME": "text/x-perl",
   "inode_type": "REG",
   "magic_type": "Perl script text executable",
-  "mode": "-rw-r--r--",
-  "sha1": "4042c43c4035259dbea333c27fdf5a50a2a18adc"
+  "mode": "-rwxr-xr-x",
+  "sha1": "6fdadd5135f9f76ce1441c4a17b81f4ee915c5ea"
 }

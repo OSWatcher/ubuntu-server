@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "Python script, ASCII text executable",
   "mode": "-rw-r--r--",
-  "sha1": "8ab76e06176cafa616d9f3034e987667076f57fc"
+  "sha1": "8372ce429128f40d224298d60fa85f31e76dd50b"
 }

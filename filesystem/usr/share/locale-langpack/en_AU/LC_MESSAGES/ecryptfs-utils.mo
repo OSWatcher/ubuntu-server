@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: ecryptfs-utils",
   "mode": "-rw-r--r--",
-  "sha1": "07eb1c734652aa0c1057c08d231885a2de84b625"
+  "sha1": "be4aadb2970cc53c8c5cc19567f2166c75bda8d7"
 }

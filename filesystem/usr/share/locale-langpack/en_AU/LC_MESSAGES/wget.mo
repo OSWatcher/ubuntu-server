@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 10 messages, Project-Id-Version: wget '%s: unrecognised option '%c%s''",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 8 messages, Project-Id-Version: wget 'Could not initialise SSL. It will be disabled.'",
   "mode": "-rw-r--r--",
-  "sha1": "5f7d4258eb0552fec5e99492f4ed2151a2555bc7"
+  "sha1": "9669f9465dd9b8038ee76b25dbfdbbd6c3d1ee07"
 }

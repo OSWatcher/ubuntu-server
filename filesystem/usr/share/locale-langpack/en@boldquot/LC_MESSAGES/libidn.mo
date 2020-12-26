@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 61 messages, Project-Id-Version: libidn 1.32 '      --allow-unassigned   Toggle IDNA AllowUnassigned flag (default off)'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 61 messages, Project-Id-Version: libidn 1.33 '      --allow-unassigned   Toggle IDNA AllowUnassigned flag (default off)'",
   "mode": "-rw-r--r--",
-  "sha1": "2ff808ce318a4ea2e81a8c978b8d3129b0611176"
+  "sha1": "5efddf78750e90dc3df7167e8e709d0be536a97d"
 }

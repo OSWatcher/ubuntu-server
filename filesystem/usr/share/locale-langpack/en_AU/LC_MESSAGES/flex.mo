@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: flex 'Generates programs that perform pattern-matching on text.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 4 messages, Project-Id-Version: flex 'Unrecognised option `%s''",
   "mode": "-rw-r--r--",
-  "sha1": "775dcbad1228f2085783746bff6678e8f74497a5"
+  "sha1": "d1328d90774197f3adc0bf41c5ff344af079a0d9"
 }

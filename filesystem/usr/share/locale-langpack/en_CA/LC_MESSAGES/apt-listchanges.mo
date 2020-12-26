@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: apt-listchanges 'The gtk front-end needs a working python-gtk2 and python-glade2.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: apt-listchanges",
   "mode": "-rw-r--r--",
-  "sha1": "9c7ca664c34e0d366caf783bccf69894ced8d567"
+  "sha1": "f54f5e383c56784cd6797e7f3a70bb895b767e41"
 }

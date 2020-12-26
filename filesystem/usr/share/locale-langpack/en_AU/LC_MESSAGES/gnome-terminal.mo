@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 28 messages, Project-Id-Version: gnome-terminal '<b>Note:</b> Terminal applications have these colours available to them.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 19 messages, Project-Id-Version: gnome-terminal 'Choose Terminal Background Colour'",
   "mode": "-rw-r--r--",
-  "sha1": "5a38451ff5acc219e196779776531b3c8f2dd286"
+  "sha1": "6b8d83742060922effa8e1b5e812653c4eb49637"
 }

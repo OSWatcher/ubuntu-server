@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 22 messages, Project-Id-Version: procman '%.1f GB'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 15 messages, Project-Id-Version: procman '%d %b %Y'",
   "mode": "-rw-r--r--",
-  "sha1": "234ce25cf0b0e109f73822add9164b8254dd8bd8"
+  "sha1": "9d7d1bf467af6fcd2e816ae47609d25e83f44efa"
 }

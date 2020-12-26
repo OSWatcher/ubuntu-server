@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 22 messages, Project-Id-Version: eog 'A rubbish bin item for \"%s\" couldn't be found. Do you want to remove this image permanently?'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 23 messages, Project-Id-Version: eog 'A rubbish bin for \\342\\200\\234%s\\342\\200\\235 couldn\\342\\200\\231t be found. Do you want to remove this image permanently?'",
   "mode": "-rw-r--r--",
-  "sha1": "642bf05154d51398bffceeefd2529112757c0630"
+  "sha1": "12cde786b7fe328c9e898fc246bee3232d48ce49"
 }

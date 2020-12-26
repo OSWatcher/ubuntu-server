@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 15 messages, Project-Id-Version: mutt '  -e <command>\\011specify a command to be executed after initialisation'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 8 messages, Project-Id-Version: neomutt-20170609 '    This program is free software; you can redistribute it and/or modify'",
   "mode": "-rw-r--r--",
-  "sha1": "3db6b020d39b5df568c67c07574542188e9ef6c9"
+  "sha1": "a128f5ba7a48a290d0f8f1d3d8501b8826116bbe"
 }

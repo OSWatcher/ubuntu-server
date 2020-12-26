@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: whois",
   "mode": "-rw-r--r--",
-  "sha1": "6a1f885dafb1b66de8ddbc12b6be39883e17a910"
+  "sha1": "6d2b8c0c34f308c6c1dfe84cb252cae43313ad7d"
 }

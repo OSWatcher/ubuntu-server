@@ -1,0 +1,7 @@
+{
+  "MIME": "application/octet-stream",
+  "inode_type": "REG",
+  "magic_type": "Linux kernel x86 boot executable bzImage, version 4.15.0-20-generic (buildd@lgw01-amd64-039) #21-Ubuntu SMP Tue Apr 24 06:16:15 UTC 2018, RO-rootFS, swap_dev 0x7, Normal VGA",
+  "mode": "-rw-------",
+  "sha1": "fabd211616bf3a1e6626f34fee9c5b68f54dc02c"
+}

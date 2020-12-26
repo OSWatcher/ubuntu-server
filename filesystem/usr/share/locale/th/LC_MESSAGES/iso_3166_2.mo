@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-gettext-translation",
-  "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 1835 messages, Project-Id-Version: iso_3166_2 '\\340\\270\\255\\340\\270\\261\\340\\270\\210\\340\\270\\241\\340\\270\\262\\340\\270\\231'",
-  "mode": "-rw-r--r--",
-  "sha1": "2ea00fc438b73ca865cc7881b81ccb8a07ef5fab"
+  "MIME": "text/plain",
+  "inode_type": "LNK",
+  "magic_type": "ASCII text, with no line terminators",
+  "mode": "lrwxrwxrwx",
+  "sha1": "f19c6b8f88e2c4187c47f74a1b6bb2a3edc6175a"
 }

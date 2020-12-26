@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 15 messages, Project-Id-Version: ubiquity-slideshow-ubuntu '<em>Amarok</em> audio player lets you organise your music and listen to Internet radio, podcast'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 6 messages, Project-Id-Version: ubiquity-slideshow-ubuntu 'For everything else, you can install more software in Discover, our software centre'",
   "mode": "-rw-r--r--",
-  "sha1": "533d9b80b7fc50ec56b9fba27b2f3356b72e25b1"
+  "sha1": "aff117fea9d1da4f0fb32f3c2bb77fe8742e3a1b"
 }

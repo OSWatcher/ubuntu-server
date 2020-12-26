@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: ibus-chewing 'Occasionally, the CapsLock status does not match the IM, this option determines how these statu'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: ibus-chewing",
   "mode": "-rw-r--r--",
-  "sha1": "cf577ef90c2ed0b852804b80dbd92a483a1c79ee"
+  "sha1": "57d2c47dff592defb53fae13d40df0b837ba4a5f"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 3 messages, Project-Id-Version: rrdtool '%s: unrecognised option `%c%s''",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: rrdtool",
   "mode": "-rw-r--r--",
-  "sha1": "c85d33dea94584d572e55b3aa79e05ab3f0996f6"
+  "sha1": "c1a85bbf12d252cf2d7669888b5d885ae3a1dba2"
 }

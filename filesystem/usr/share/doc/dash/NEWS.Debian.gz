@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"NEWS.Debian\", last modified: Wed Feb 17 20:26:01 2016, max compression, from Unix, original size modulo 2^32 453",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 453",
   "mode": "-rw-r--r--",
-  "sha1": "e6555ed8408a3614688d7c1cac6de3ceee2caf00"
+  "sha1": "3d9d657b1eeec0f15032e8abce8fe41884d368b7"
 }

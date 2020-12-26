@@ -2,6 +2,6 @@
   "MIME": "text/plain",
   "inode_type": "REG",
   "magic_type": "UTF-8 Unicode text, with very long lines",
-  "mode": "-rw-rw-r--",
-  "sha1": "5071b96cafeb91cc6083c2991833376ebf55107a"
+  "mode": "-rw-r--r--",
+  "sha1": "db826522d7aed7b5762aa5d6f90541d41b07300d"
 }

@@ -1,7 +1,0 @@
-{
-  "MIME": "text/plain",
-  "inode_type": "LNK",
-  "magic_type": "ASCII text, with no line terminators",
-  "mode": "lrwxrwxrwx",
-  "sha1": "f1ba0bb3b432d89cdfb9d3dbe94b78fd7b7b262e"
-}

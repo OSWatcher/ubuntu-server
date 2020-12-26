@@ -1,7 +1,7 @@
 {
-  "MIME": "application/octet-stream",
-  "inode_type": "REG",
-  "magic_type": "magic binary file for file(1) cmd (version 13) (little endian)",
-  "mode": "-rw-r--r--",
-  "sha1": "ec9a3f17f7a75f068846a43e79aa5c6a230f42e5"
+  "MIME": "text/plain",
+  "inode_type": "LNK",
+  "magic_type": "ASCII text, with no line terminators",
+  "mode": "lrwxrwxrwx",
+  "sha1": "3640f248ff7d2ae630342a0d3cfee60d1fe57683"
 }

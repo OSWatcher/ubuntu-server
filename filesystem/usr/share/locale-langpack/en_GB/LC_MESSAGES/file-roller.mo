@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 40 messages, Project-Id-Version: file-roller '\\342\\200\\234%s\\342\\200\\235 created successfully'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: file-roller 'List of applications entered in the \\342\\200\\234Open File\\342\\200\\235 dialogue and not associated with the file t'",
   "mode": "-rw-r--r--",
-  "sha1": "8454dbdd6136ab39d968a9ec14db30f46fbb11c2"
+  "sha1": "014d771bdf40a42b2748c612e7eacec0f2c18ef8"
 }

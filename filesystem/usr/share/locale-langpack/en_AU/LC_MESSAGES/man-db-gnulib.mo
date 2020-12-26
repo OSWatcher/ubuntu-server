@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 4 messages, Project-Id-Version: man-db '%s: unrecognised option '%c%s''",
   "mode": "-rw-r--r--",
-  "sha1": "a8385c09f6a00381a31d3957a93a77659c75c649"
+  "sha1": "568ebf0a64abd1968ad6b3acbb932876fcc20c8c"
 }

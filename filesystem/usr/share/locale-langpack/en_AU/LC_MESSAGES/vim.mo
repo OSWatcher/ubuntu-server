@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 62 messages, Project-Id-Version: vim ' # pid    database name                       prefix path'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 61 messages, Project-Id-Version: vim ' # pid    database name                       prefix path'",
   "mode": "-rw-r--r--",
-  "sha1": "b6f1a6457bbd1dd82b81852bbdd240c58ea419e3"
+  "sha1": "d61517e2661d637503bd4296e463aeff64058868"
 }

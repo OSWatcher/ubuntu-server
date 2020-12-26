@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 21 messages, Project-Id-Version: gnome-settings-daemon 'Binding to launch the e-mail client.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 36 messages, Project-Id-Version: gnome-settings-daemon 'Aeroplane mode disabled'",
   "mode": "-rw-r--r--",
-  "sha1": "712cfc8be9957b64f4e3e5c801961713e2b25cc9"
+  "sha1": "e2ab8273a0e78f1e24f75934bd4abe529750f68a"
 }

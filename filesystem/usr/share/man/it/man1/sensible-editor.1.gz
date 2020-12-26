@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"sensible-editor.1\", last modified: Mon Jun 17 09:02:33 2013, max compression, from Unix, original size modulo 2^32 971",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 1253",
   "mode": "-rw-r--r--",
-  "sha1": "9b9e4d7be6724ea87da383ce74afeb8d7056d1fc"
+  "sha1": "4d0c2cec581c06311b1af0c3ca48ac16d973d69f"
 }

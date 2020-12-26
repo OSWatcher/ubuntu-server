@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 112 messages, Project-Id-Version: gdb '\"set record full\" must be followed by an appropriate subcommand.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 104 messages, Project-Id-Version: gdb ''%s' is not a recognised file format.'",
   "mode": "-rw-r--r--",
-  "sha1": "a471c72c1b6cdbbcd918681e8f23d6ad273178cf"
+  "sha1": "c2408a67a063b788cb2cc5418c3b686675490f83"
 }

@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 25 messages, Project-Id-Version: language-selector '%s, %s'",
   "mode": "-rw-r--r--",
-  "sha1": "852ece86ee501c6f7812f1dde2c3e5e7869154d6"
+  "sha1": "5e2fe4f5a9d2a52f7786a1577b151175b2a745ab"
 }

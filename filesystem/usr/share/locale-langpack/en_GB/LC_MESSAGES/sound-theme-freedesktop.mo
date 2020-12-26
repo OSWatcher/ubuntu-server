@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: sound-theme-freedesktop",
   "mode": "-rw-r--r--",
-  "sha1": "d5544621662b8dfa26aeb3f5f96d881eebcbcb6c"
+  "sha1": "04a100dd968bf2b6a6376c8263dc2d16f2ec000b"
 }

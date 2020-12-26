@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 6 messages, Project-Id-Version: PACKAGE VERSION 'Colour'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 23 messages, Project-Id-Version: gnome-calendar 3.21.91 '%d %B'",
   "mode": "-rw-r--r--",
-  "sha1": "a236325134801bf1b0a5a503201ac8c8521e1c6a"
+  "sha1": "0f1108c2dbd6cb1cffa8d3b7eee746bc22560821"
 }

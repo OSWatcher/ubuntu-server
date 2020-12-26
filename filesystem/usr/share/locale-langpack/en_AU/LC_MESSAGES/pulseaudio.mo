@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 32 messages, Project-Id-Version: pulseaudio '%s [options]'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 31 messages, Project-Id-Version: pulseaudio 'Analogue Input'",
   "mode": "-rw-r--r--",
-  "sha1": "613913781c42e3173cccd68f3113908f7e0a0217"
+  "sha1": "ebe94bde642adbd05a26246b736aed9cef92cd29"
 }

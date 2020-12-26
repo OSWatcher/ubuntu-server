@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 66 messages, Project-Id-Version: aptitude ' -S fname Read the aptitude extended status info from fname.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 57 messages, Project-Id-Version: aptitude '%s: Unable to create a Unix-domain socket %s'",
   "mode": "-rw-r--r--",
-  "sha1": "b6d56ba737d71ac343cec7d1225159e02afe1685"
+  "sha1": "1421e6b23a5dd77119d72fdfa8f692115ccb5227"
 }

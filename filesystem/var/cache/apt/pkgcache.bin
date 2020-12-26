@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "APT cache data, version 10.5, little-endian, 77287 packages, 118716 versions",
+  "magic_type": "APT cache data, version 13.0, little-endian, 88426 packages, 131438 versions",
   "mode": "-rw-r--r--",
-  "sha1": "8cf06d9dae95287f21aca090367aed4d420fa464"
+  "sha1": "3b4fc23447a83ee5524b02daa6a21e5894cc9ba3"
 }

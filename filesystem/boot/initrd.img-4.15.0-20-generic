@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, last modified: Fri Dec 25 23:40:28 2020, from Unix, original size modulo 2^32 142763008 gzip compressed data, reserved method, was \"\", has comment, encrypted, from FAT filesystem (MS-DOS, OS/2, NT), original size modulo 2^32 142763008",
+  "mode": "-rw-r--r--",
+  "sha1": "c215975578d29dd6d58f70121f7ec8a5ff35ccba"
+}

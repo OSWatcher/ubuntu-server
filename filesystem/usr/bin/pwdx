@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-executable",
+  "MIME": "application/x-sharedlib",
   "inode_type": "REG",
-  "magic_type": "ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f67d6029ca8711a47fdf5ab394790b0c092e54db, stripped",
+  "magic_type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=95ab97ee84044f760b54d9381c837bf41d07ab5d, stripped",
   "mode": "-rwxr-xr-x",
-  "sha1": "b75a1180aae095224621f1d080a9f6857c91f6e3"
+  "sha1": "24c2f34c950686c7e5c49f8b3a5cfcc60a8e5979"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 47 messages, Project-Id-Version: zenity '--%s is not supported for this dialogue'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 49 messages, Project-Id-Version: zenity '--%s is not supported for this dialogue'",
   "mode": "-rw-r--r--",
-  "sha1": "b153035d0de7ca13e04f4e490682eba113ab6797"
+  "sha1": "b54d49a5b368ce70ac902532e9fbe15f24ade024"
 }

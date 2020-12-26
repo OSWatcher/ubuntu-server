@@ -1,7 +1,7 @@
 {
-  "MIME": "text/x-shellscript",
+  "MIME": "application/x-sharedlib",
   "inode_type": "REG",
-  "magic_type": "POSIX shell script, ASCII text executable",
+  "magic_type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=faea7facce5173adb4ab80bb73d779806ab840e2, stripped",
   "mode": "-rwxr-xr-x",
-  "sha1": "9e8fa86d6f2c511a1ab97919bcf0b8d6484af5b7"
+  "sha1": "87d0d91bd975b964f1858bf85d0b7063b95069a3"
 }

@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: aptitude",
   "mode": "-rw-r--r--",
-  "sha1": "6545d7f2e322cca169b7f73271ebc914979c759d"
+  "sha1": "7f9d6064000719b002077eb59ffff6044ac01d30"
 }

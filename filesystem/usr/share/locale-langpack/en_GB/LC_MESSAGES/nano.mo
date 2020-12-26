@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 18 messages, Project-Id-Version: nano ' E-mail: nano@nano-editor.org\\011Web: http://www.nano-editor.org/'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 17 messages, Project-Id-Version: nano ' [Case-Sensitive]'",
   "mode": "-rw-r--r--",
-  "sha1": "fd6a2d09c4b0ea5473da59b6f7d8236fc9c9a6df"
+  "sha1": "2db4625f3bec52a2b9f736cd3416cb7436d7c3bc"
 }

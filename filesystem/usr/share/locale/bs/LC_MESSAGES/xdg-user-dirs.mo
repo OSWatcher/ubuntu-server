@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 29 messages, Project-Id-Version: xdg-user-dirs 'Programi'",
   "mode": "-rw-r--r--",
-  "sha1": "f1d86c48d8e2e5276e8eb515f9bcc9210046bef2"
+  "sha1": "bb7c8dc0ce4ccbe64adb87667f266d944cfe5bab"
 }

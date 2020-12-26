@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "timezone data, version 2, 6 gmt time flags, 6 std time flags, no leap seconds, 120 transition times, 6 abbreviation chars",
   "mode": "-rw-r--r--",
-  "sha1": "2a36f91f1296b248c5ba3331c1ec00b839c8b472"
+  "sha1": "8545dd3ef55384579e53f80c337f816935c860ed"
 }

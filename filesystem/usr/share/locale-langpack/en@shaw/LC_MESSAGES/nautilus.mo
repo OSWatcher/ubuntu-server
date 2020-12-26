@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 597 messages, Project-Id-Version: nautilus '\\360\\220\\221\\250\\360\\220\\221\\233 \\360\\220\\221\\222\\360\\220\\221\\251\\360\\220\\221\\257\\360\\220\\221\\247\\360\\220\\221\\222\\360\\220\\221\\221 \\360\\220\\221\\221 \\360\\220\\221\\225\\360\\220\\221\\273\\360\\220\\221\\235\\360\\220\\221\\274 \\360\\220\\221\\245\\360\\220\\221\\254\\360\\220\\221\\257\\360\\220\\221\\221'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 354 messages, Project-Id-Version: nautilus ' ('",
   "mode": "-rw-r--r--",
-  "sha1": "8a4b092e9e63369b6e380d48dc63ec8d55b3c962"
+  "sha1": "b4d9ac2a436ff072f35bf01d91316f4274959658"
 }
