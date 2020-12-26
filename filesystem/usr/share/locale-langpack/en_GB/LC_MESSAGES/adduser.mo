@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 4 messages, Project-Id-Version: adduser '%s: To avoid problems, the username should consist only of'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: adduser '%s: To avoid problems, the username should consist only of'",
   "mode": "-rw-r--r--",
-  "sha1": "b64cac4b136a6f73d27411375bfc6515774e834d"
+  "sha1": "9b48fb2b712c584c9528cb3120043cf8e6cb59e7"
 }

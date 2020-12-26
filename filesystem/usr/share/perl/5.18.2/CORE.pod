@@ -1,7 +1,0 @@
-{
-  "MIME": "text/plain",
-  "inode_type": "REG",
-  "magic_type": "awk or perl script, ASCII text",
-  "mode": "-rw-r--r--",
-  "sha1": "fc25900532a1303d6a93b30efb3cd88236bdfe93"
-}

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"JUS_I.B1.003-MAC\", last modified: Tue Mar  6 08:19:43 2012, max compression, from Unix, original size modulo 2^32 6026",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 6026",
   "mode": "-rw-r--r--",
-  "sha1": "609c79f2b44b87285c11176eadc9f7900a712a97"
+  "sha1": "6d9b5f0ea28a9325213de551d4b27b1e09461978"
 }

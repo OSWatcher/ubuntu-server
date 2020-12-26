@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 3 messages, Project-Id-Version: powertop 'Enable SATA link power Management for %s'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: powertop 'uses an Extech Power Analyser for measurements'",
   "mode": "-rw-r--r--",
-  "sha1": "2c37cbc3f4c2884480c1b05d7c0a685f6a0adfbb"
+  "sha1": "e0fb35c60705e774ba4bda62869782f784e34614"
 }

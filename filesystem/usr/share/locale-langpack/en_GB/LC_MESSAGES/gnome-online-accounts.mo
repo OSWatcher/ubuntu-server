@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 23 messages, Project-Id-Version: gnome-online-accounts 'Authorisation response was \\342\\200\\234%s\\342\\200\\235'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 9 messages, Project-Id-Version: gnome-online-accounts 'Authorisation response: '",
   "mode": "-rw-r--r--",
-  "sha1": "55cbe323b3b4d451c5cd933b2c68f180296dbb8c"
+  "sha1": "cc2a8cb21f45d8565e40fe1bbdaf208b58844453"
 }

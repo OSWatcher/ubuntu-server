@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 27 messages, Project-Id-Version: binutils ' Linkage Pairs Reference Fixups:'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 22 messages, Project-Id-Version: binutils '%B: 0x%lx: warning: R_SH_USES points to unrecognised insn 0x%x'",
   "mode": "-rw-r--r--",
-  "sha1": "8ddbefbd3c239aaf253008e645e7e325795bb995"
+  "sha1": "e6ae6197bc9b4d64472b84a488e26de7a668a16a"
 }

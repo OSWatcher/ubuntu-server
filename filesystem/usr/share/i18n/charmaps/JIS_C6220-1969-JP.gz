@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"JIS_C6220-1969-JP\", last modified: Tue Mar  6 08:19:27 2012, max compression, from Unix, original size modulo 2^32 10319",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 10319",
   "mode": "-rw-r--r--",
-  "sha1": "8d259a946f4e618c2b63c3b3a1dd6f4d4fb65ec3"
+  "sha1": "210398f0e082c4828c192fc1ac5235bfad1b7da1"
 }

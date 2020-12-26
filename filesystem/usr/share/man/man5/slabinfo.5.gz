@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"slabinfo.5\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 5248",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 5281",
   "mode": "-rw-r--r--",
-  "sha1": "43cc156e18de067d59545793a74340df5ebfc135"
+  "sha1": "71ef8142e3ef90aa09077d79ef41fa536321da16"
 }

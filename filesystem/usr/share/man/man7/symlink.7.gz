@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"symlink.7\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 14891",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 16050",
   "mode": "-rw-r--r--",
-  "sha1": "38548dc4aaacefcf982e2d8886f8a50039a64917"
+  "sha1": "a4575c4d7c692e7ebb69a3fdf74c652f18ed0d8f"
 }

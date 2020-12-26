@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 107 messages, Project-Id-Version: gtk+ 'Activates the colour'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 126 messages, Project-Id-Version: gtk+ '%H:%M'",
   "mode": "-rw-r--r--",
-  "sha1": "33d4d3d98b032d41dba25e2bcfdfda62f5ccbb77"
+  "sha1": "545728c37badef20188a6a89265f3f293906c168"
 }

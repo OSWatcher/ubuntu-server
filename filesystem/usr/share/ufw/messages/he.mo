@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 51 messages, Project-Id-Version: ufw",
   "mode": "-rw-r--r--",
-  "sha1": "84da51a56536f2ef6d1ec1939c360fd0dfc081dc"
+  "sha1": "59f28e5682137bda4e480df608190e684fe25ec2"
 }

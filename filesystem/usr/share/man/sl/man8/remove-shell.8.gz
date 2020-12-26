@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"remove-shell.8\", last modified: Wed Aug 28 05:42:42 2013, max compression, from Unix, original size modulo 2^32 781",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 781",
   "mode": "-rw-r--r--",
-  "sha1": "7145f70ea28cd5727a1e9ec70bfbc62a3a01dd1a"
+  "sha1": "886fff1efa47d17277b74d2633e51c4674db96c8"
 }

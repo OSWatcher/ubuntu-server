@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: nautilus-sendto 'E-mail'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: nautilus-sendto",
   "mode": "-rw-r--r--",
-  "sha1": "697d62f3ebbf26d7ef9ceea7afe580c73c15c5ef"
+  "sha1": "6d90dbd66392af0db43f5259885c1a93dfb65d2e"
 }

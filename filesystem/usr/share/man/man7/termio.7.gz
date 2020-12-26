@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"termio.7\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 2480",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 2513",
   "mode": "-rw-r--r--",
-  "sha1": "0ffb262d8b63ed76777bbc46df03f098843a391e"
+  "sha1": "0c781e0cfe5bb0599c59cfd5640c1af6a6c6d320"
 }

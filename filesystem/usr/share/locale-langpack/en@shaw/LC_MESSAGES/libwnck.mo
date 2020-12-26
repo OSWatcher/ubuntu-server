@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 187 messages, Project-Id-Version: metacity '\"%s\"'",
   "mode": "-rw-r--r--",
-  "sha1": "b1ac3a1299ff30bc12296ff3314afe6dd60bfed1"
+  "sha1": "f7bdcc04318ac8cdeb1df5ee86433a8e58f540f5"
 }

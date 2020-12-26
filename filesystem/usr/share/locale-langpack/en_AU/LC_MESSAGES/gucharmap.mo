@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: gucharmap 'Launchpad Contributions:'",
   "mode": "-rw-r--r--",
-  "sha1": "b7e9e53d6aebf68285f5735d8a351305d04aadfc"
+  "sha1": "55516b53ade51eef275b764b6019040d9545175b"
 }

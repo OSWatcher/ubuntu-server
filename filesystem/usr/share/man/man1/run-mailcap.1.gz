@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"run-mailcap.1\", last modified: Mon May 13 11:56:05 2013, max compression, from Unix, original size modulo 2^32 2426",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 3015",
   "mode": "-rw-r--r--",
-  "sha1": "6e12ab5ab9948973581d40a785be03cf6da8f5d4"
+  "sha1": "912ea5a0c547cdd0db69024c4ec09f3d8c3c463d"
 }

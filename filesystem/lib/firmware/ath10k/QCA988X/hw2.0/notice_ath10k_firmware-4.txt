@@ -1,0 +1,7 @@
+{
+  "MIME": "text/plain",
+  "inode_type": "REG",
+  "magic_type": "ReStructuredText file, ASCII text",
+  "mode": "-rw-r--r--",
+  "sha1": "76f61dda5e74c854564260f7c22dabdd320c66dd"
+}

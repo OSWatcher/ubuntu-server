@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: usb-creator 'Installing the EFI bootloader\\342\\200\\246'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: usb-creator",
   "mode": "-rw-r--r--",
-  "sha1": "36fc19cef2506b4e5ec826470a9a9b3d434fa5e3"
+  "sha1": "c6e17f5a3d99077e7d56023af373795d16c0b4ad"
 }

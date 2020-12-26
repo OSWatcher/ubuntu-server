@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 42 messages, Project-Id-Version: libvisual-plugins 'A nice simple spectrum analyser plug-in.'",
   "mode": "-rw-r--r--",
-  "sha1": "a074eb92b3cc6dbd180d970ab75d9f3ac70e7883"
+  "sha1": "0608126cb8dcd93eb8af6bd885b1691020dbf680"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"spufs.7\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 19221",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 19259",
   "mode": "-rw-r--r--",
-  "sha1": "8140a5e8c76062118dba39d1b94dcb86ee59d86f"
+  "sha1": "14aefb49020aa3e207eb72acf8574128101bf520"
 }

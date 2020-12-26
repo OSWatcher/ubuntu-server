@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"ASMO_449\", last modified: Tue Mar  6 08:15:27 2012, max compression, from Unix, original size modulo 2^32 5274",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 5274",
   "mode": "-rw-r--r--",
-  "sha1": "ca36d05ff2ec33f6bd74dd399dc93872e2d5a522"
+  "sha1": "0367a278b2874b0630def0f4837043626e73c9f4"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"IBM278\", last modified: Tue Mar  6 08:17:49 2012, max compression, from Unix, original size modulo 2^32 12532",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 12532",
   "mode": "-rw-r--r--",
-  "sha1": "596af67304e0522ba596a8838ee3e3f74b863c90"
+  "sha1": "b941bf541f4058edb8d86a9aa3c8fab0c2a5ede4"
 }

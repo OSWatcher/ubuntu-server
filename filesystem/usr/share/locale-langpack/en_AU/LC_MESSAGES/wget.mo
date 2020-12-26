@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 104 messages, Project-Id-Version: wget '       --bind-address=ADDRESS bind to ADDRESS (hostname or IP) on local host.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 10 messages, Project-Id-Version: wget '%s: unrecognised option '%c%s''",
   "mode": "-rw-r--r--",
-  "sha1": "d7a44061874bb586a79f858d09ddabf0edc32dfd"
+  "sha1": "5f7d4258eb0552fec5e99492f4ed2151a2555bc7"
 }

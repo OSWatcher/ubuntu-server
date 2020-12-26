@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
-  "inode_type": "LNK",
-  "magic_type": "ASCII text, with no line terminators",
-  "mode": "lrwxrwxrwx",
-  "sha1": "5ae9d122da9ebd3c25f40847812947bc25b6cbe2"
+  "MIME": "application/octet-stream",
+  "inode_type": "REG",
+  "magic_type": "timezone data, version 2, 7 gmt time flags, 7 std time flags, 26 leap seconds, 99 transition times, 7 abbreviation chars",
+  "mode": "-rw-r--r--",
+  "sha1": "6747e8369355c0608df2d8c39cde5714f84bc8f6"
 }

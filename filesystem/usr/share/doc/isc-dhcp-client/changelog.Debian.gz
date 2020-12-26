@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
-  "inode_type": "LNK",
-  "magic_type": "ASCII text, with no line terminators",
-  "mode": "lrwxrwxrwx",
-  "sha1": "11ced4129531c1fd032014814876a4e89ec44808"
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 2930",
+  "mode": "-rw-r--r--",
+  "sha1": "a2e75b93a9bd7b62871ea6746c7287c2672a51e0"
 }

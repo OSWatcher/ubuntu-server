@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 452 messages, Project-Id-Version: iso_3166 'Afganist\\304\\201na'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 456 messages, Project-Id-Version: iso_3166 'Afganist\\304\\201na'",
   "mode": "-rw-r--r--",
-  "sha1": "f6708ca169346c448443e8fbb13d467bc84e7ab5"
+  "sha1": "1845140d4ac8f3f964c8c6a6d4d219a6ef8d9acc"
 }

@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 394 messages, Project-Id-Version: iso_3166 'Apganistan'",
   "mode": "-rw-r--r--",
-  "sha1": "48dd5365806164a240ab0c1a7d9c00ecfb77c900"
+  "sha1": "fb92deb649de5020a3f6aa6df0c5b8c381c02dd5"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"libc.7\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 4336",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 4478",
   "mode": "-rw-r--r--",
-  "sha1": "8378509fa642abf6b9f7f8904b3c9dd44ad1d768"
+  "sha1": "5c28990517e7c6ebd9f53b79b53a3c5b861cad21"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"wavelan.4\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 4430",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 4463",
   "mode": "-rw-r--r--",
-  "sha1": "90838a894c8862ab704928d4c534fa56d2f7afd4"
+  "sha1": "27d5a9a343a3cdeb5ebc195c36fa75442dc4cb64"
 }

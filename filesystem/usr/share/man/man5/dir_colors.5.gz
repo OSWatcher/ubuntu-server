@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"dir_colors.5\", last modified: Thu Oct  3 16:52:44 2013, max compression, from Unix, original size modulo 2^32 10740",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 10658",
   "mode": "-rw-r--r--",
-  "sha1": "1c39b4952079ddb3d8260fbf25bb2b623827ed72"
+  "sha1": "9672ed9c10197c76d270464e168c5a829e51bd2f"
 }

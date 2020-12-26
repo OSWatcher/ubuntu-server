@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 9 messages, Project-Id-Version: ubiquity-slideshow-ubuntu '<strong>Say goodbye to having to scour the web for new software. </strong>'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 6 messages, Project-Id-Version: ubiquity-slideshow-ubuntu 'At the heart of the Ubuntu GNOME philosophy is the belief that computing is for everyone. With '",
   "mode": "-rw-r--r--",
-  "sha1": "6f25c3468d8bde07a5c9453ecddc9dea69d577a2"
+  "sha1": "cceee412e60d922d550d694b0afc48874cbd7b3b"
 }

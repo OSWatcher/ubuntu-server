@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: apt-listchanges",
   "mode": "-rw-r--r--",
-  "sha1": "0b2e5b7a58a062c84767b399c440c61ebecde15f"
+  "sha1": "ee6b9b0c1aeafb8d0aa915458070f0b8289092be"
 }

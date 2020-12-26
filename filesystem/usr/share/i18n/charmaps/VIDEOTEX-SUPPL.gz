@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"VIDEOTEX-SUPPL\", last modified: Tue Mar  6 08:20:54 2012, max compression, from Unix, original size modulo 2^32 21700",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 21700",
   "mode": "-rw-r--r--",
-  "sha1": "eaf30f89dec0f2baceade52fe55b7fcdb57a4e87"
+  "sha1": "7033995222001eff1b37aa573d44b33f44ece1dc"
 }

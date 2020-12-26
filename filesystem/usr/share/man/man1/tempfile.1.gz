@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"tempfile.1\", last modified: Wed Aug 28 05:42:42 2013, max compression, from Unix, original size modulo 2^32 2219",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 2219",
   "mode": "-rw-r--r--",
-  "sha1": "920a496b36962f29f68c804b54f937f345ea0301"
+  "sha1": "af89a1866d339de2f0c320dbcfc0201586025010"
 }

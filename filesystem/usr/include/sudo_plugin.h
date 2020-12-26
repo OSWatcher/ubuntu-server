@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "C source, ASCII text",
   "mode": "-rw-r--r--",
-  "sha1": "cf0ac57c7949f54858174f829a5f773ee0d5cd3a"
+  "sha1": "c592b27acdd7c7675100f8879e2fc9a822f6af43"
 }

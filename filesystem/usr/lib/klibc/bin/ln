@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-executable",
   "inode_type": "REG",
-  "magic_type": "ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, interpreter /lib/klibc-P2s_k-gf23VtrGgO2_4pGkQgwMY.so, stripped",
+  "magic_type": "ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, interpreter /lib/klibc-k3La8MUnuzHQ0_kG8hokcGAC0PA.so, stripped",
   "mode": "-rwxr-xr-x",
-  "sha1": "7dd175710cb0e1ca638ff95ae12f6c2813602d90"
+  "sha1": "8db2c4d67241b27d59fab5a736d1a638d79a9d4f"
 }

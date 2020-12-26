@@ -1,7 +1,7 @@
 {
   "MIME": "text/x-shellscript",
   "inode_type": "REG",
-  "magic_type": "Bourne-Again shell script, ASCII text executable",
+  "magic_type": "POSIX shell script, ASCII text executable",
   "mode": "-rwxr-xr-x",
-  "sha1": "a7992fff58905c4508ac61cb2cef099ffcc51a67"
+  "sha1": "2f28b7a6f372488cefaaf5a354e4175d9beb101b"
 }

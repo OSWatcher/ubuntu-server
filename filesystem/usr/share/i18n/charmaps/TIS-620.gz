@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"TIS-620\", last modified: Tue Mar  6 08:20:44 2012, max compression, from Unix, original size modulo 2^32 10030",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 10030",
   "mode": "-rw-r--r--",
-  "sha1": "7e76cf4897c78e3e4e304cb90e172965f5159f5b"
+  "sha1": "64a414946cad868bb2281f4295fb836746ddc0f1"
 }

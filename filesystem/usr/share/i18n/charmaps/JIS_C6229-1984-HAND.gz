@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"JIS_C6229-1984-HAND\", last modified: Tue Mar  6 08:19:33 2012, max compression, from Unix, original size modulo 2^32 10103",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 10103",
   "mode": "-rw-r--r--",
-  "sha1": "320301e3aaa5e8b522dabdd896bd8e93b9ddeb5f"
+  "sha1": "dcb39419e45854d335c4c146e1dfbcdd111d39fe"
 }

@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-sharedlib",
-  "inode_type": "REG",
-  "magic_type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, BuildID[sha1]=7b5946e644f86c4fdb2dd3fd30b68ea7f0df64c9, stripped",
-  "mode": "-rw-r--r--",
-  "sha1": "8abf0709694798679580bee365379f220d327e94"
-}

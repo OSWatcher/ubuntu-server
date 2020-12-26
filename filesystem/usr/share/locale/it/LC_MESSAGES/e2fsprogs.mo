@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 502 messages, Project-Id-Version: e2fsprogs 1.36-b2 '\\011%Q (@i #%i, ultima modifica %IM)'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 625 messages, Project-Id-Version: e2fsprogs-1.42.10 '\\011%Q (@i #%i, ultima modifica %IM)'",
   "mode": "-rw-r--r--",
-  "sha1": "5f617b5fa67eef4dcbae58870eddfd9bd33e0baf"
+  "sha1": "46a52a6303859aeeb0c631962bf777a82ecf7002"
 }

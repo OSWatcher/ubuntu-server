@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: ubuntu-wallpapers",
   "mode": "-rw-r--r--",
-  "sha1": "3a9890d4f49ed41e93970902f18246cd679bca45"
+  "sha1": "52a7b54d7b6d8f8b0853f62934f49a6855e110d3"
 }

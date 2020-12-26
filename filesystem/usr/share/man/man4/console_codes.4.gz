@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"console_codes.4\", last modified: Thu Oct  3 16:52:44 2013, max compression, from Unix, original size modulo 2^32 23001",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 23265",
   "mode": "-rw-r--r--",
-  "sha1": "5016260560c18b0f78c30a7e2af4f87b411a5103"
+  "sha1": "40bee78f355d0fce1b44189cfa9b5f8342ad617d"
 }

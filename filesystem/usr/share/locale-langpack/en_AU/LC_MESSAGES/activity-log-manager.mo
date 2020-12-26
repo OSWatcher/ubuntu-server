@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: activity-log-manager",
   "mode": "-rw-r--r--",
-  "sha1": "60e089210095623575d60ec14e25576b0d7b461b"
+  "sha1": "f76bae27a75ec0360d0b3b6284f245daa00f1282"
 }

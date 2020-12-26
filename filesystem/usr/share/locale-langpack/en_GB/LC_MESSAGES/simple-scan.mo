@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 10 messages, Project-Id-Version: simple-scan 'Height of paper (in tenths of a mm)'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 14 messages, Project-Id-Version: simple-scan 'A really easy way to scan both documents and photos. You can crop out the bad parts of a photo '",
   "mode": "-rw-r--r--",
-  "sha1": "60c187fffc9bec01cf6d637570df141ca7620aca"
+  "sha1": "d2813120ea88df0e26c8f5e74f67edf9aa8d826b"
 }

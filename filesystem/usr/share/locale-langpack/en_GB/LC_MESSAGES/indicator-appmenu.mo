@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: indicator-appmenu",
   "mode": "-rw-r--r--",
-  "sha1": "e605ad4e1b1f4ecf115b751cfa1f04f5ffa82ff4"
+  "sha1": "31ede61157d2f5642a2ca3ebfcb26f0abccfff43"
 }

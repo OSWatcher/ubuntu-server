@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 245 messages, Project-Id-Version: bacula 'This command will delete volume %s'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 12 messages, Project-Id-Version: bacula 'Authorisation problem with Director at \"%s:%d\"'",
   "mode": "-rw-r--r--",
-  "sha1": "d3e1273505ee54092fc20944506d7fee4a769e5c"
+  "sha1": "c2fa9807653a91c53b0e760d4503d5c94c1fdbc2"
 }

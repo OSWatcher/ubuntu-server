@@ -1,0 +1,7 @@
+{
+  "MIME": "application/x-dosexec",
+  "inode_type": "REG",
+  "magic_type": "PE32+ executable (EFI application) x86-64 (stripped to external PDB), for MS Windows",
+  "mode": "-rw-r--r--",
+  "sha1": "42f8eefc7828adcbcafd32001a0caf202515f25a"
+}

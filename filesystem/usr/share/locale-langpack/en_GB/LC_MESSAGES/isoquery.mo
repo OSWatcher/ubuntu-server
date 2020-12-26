@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: isoquery",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: isoquery 'Translation to English (United Kingdom) Copyright \\302\\251 2014 Andi Chandler'",
   "mode": "-rw-r--r--",
-  "sha1": "f7e38d3f061133986ba40b49a33e8365a1a776ed"
+  "sha1": "e43d12d970e3a34a2da664f8c36720afecfdb515"
 }

@@ -1,7 +1,7 @@
 {
-  "MIME": "text/x-shellscript",
+  "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "POSIX shell script, ASCII text executable",
+  "magic_type": "ASCII text",
   "mode": "-rw-r--r--",
-  "sha1": "a76ea7d50bc2fc0d51203157151187fca0c07d4c"
+  "sha1": "e4c2a909e7876931b68dc0586b6982bd7039bdaf"
 }

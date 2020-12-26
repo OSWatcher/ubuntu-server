@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: indicator-sound",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: indicator-sound 'USB headphones'",
   "mode": "-rw-r--r--",
-  "sha1": "838ba08779342f6e3c8567c41c1e2ef6e61d9155"
+  "sha1": "a1542fa5e4611655d30cdd5bb07782cc3ac1e43f"
 }

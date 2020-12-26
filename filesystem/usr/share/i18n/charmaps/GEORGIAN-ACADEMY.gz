@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"GEORGIAN-ACADEMY\", last modified: Tue Mar  6 08:17:18 2012, max compression, from Unix, original size modulo 2^32 11830",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 11830",
   "mode": "-rw-r--r--",
-  "sha1": "06de363134db867dc732ae3335eb7319f2c37321"
+  "sha1": "1cede438159246f425d2921d846f8f21825b6afb"
 }

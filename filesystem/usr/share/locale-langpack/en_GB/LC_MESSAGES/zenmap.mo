@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 11 messages, Project-Id-Version: nmap '%s can search results on directories or inside it's own database. Please select a method by cho'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 9 messages, Project-Id-Version: nmap '<b>Copy and e-mail to <a href=\"mailto:dev@nmap.org\">dev@nmap.org</a>:</b>'",
   "mode": "-rw-r--r--",
-  "sha1": "dafcaa5d7a7333aa17b93babe227489d6ede3e7b"
+  "sha1": "4455c017c127577ad51e136770f0ea9f4f6b4ca6"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"SHIFT_JISX0213\", last modified: Tue Mar  6 08:20:37 2012, max compression, from Unix, original size modulo 2^32 381706",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 381706",
   "mode": "-rw-r--r--",
-  "sha1": "3b5bcfd2ab85675a771677321da9a6c0aae0c887"
+  "sha1": "94c49c5194c8763a587eece09f1c1951426c0ef6"
 }

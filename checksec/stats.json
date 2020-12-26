@@ -1,30 +1,30 @@
 {
   "ELF": {
-    "canary": 51.9,
+    "canary": 68.8,
     "fortified": 0.0,
     "fortify_score": 0.0,
-    "fortify_score_100": 15.0,
-    "fortify_source": 63.4,
+    "fortify_score_100": 12.9,
+    "fortify_source": 67.1,
     "fortifyable": 0.0,
-    "nx": 97.4,
+    "nx": 97.1,
     "pie": 100.0,
     "relro": 100.0,
-    "rpath": 0.9,
-    "runpath": 0.7,
-    "symbols": 1.0
+    "rpath": 1.6,
+    "runpath": 0.8,
+    "symbols": 1.5
   },
-  "ELF_count": 1511,
+  "ELF_count": 1466,
   "PE": {
-    "cat_filepath": 0,
-    "dynamic_base": 0,
-    "force_integrity": 0,
-    "guard_cf": 0,
-    "high_entropy_va": 0,
-    "manifest_isolation": 0,
-    "nx_compat": 0,
-    "seh": 0,
-    "signed": 0
+    "cat_filepath": 0.0,
+    "dynamic_base": 0.0,
+    "force_integrity": 0.0,
+    "guard_cf": 0.0,
+    "high_entropy_va": 0.0,
+    "manifest_isolation": 100.0,
+    "nx_compat": 0.0,
+    "seh": 100.0,
+    "signed": 0.0
   },
-  "PE_count": 0,
-  "total": 1511
+  "PE_count": 2,
+  "total": 1468
 }

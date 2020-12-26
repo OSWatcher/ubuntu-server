@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 16 messages, Project-Id-Version: inkscape 'Background colour'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 13 messages, Project-Id-Version: inkscape 'Background colour'",
   "mode": "-rw-r--r--",
-  "sha1": "f137de62e35b9f29ef064cefcbbb5e7385bb9c5a"
+  "sha1": "bbc0e5cb521e1172e46a94e628039a0f47e0d935"
 }

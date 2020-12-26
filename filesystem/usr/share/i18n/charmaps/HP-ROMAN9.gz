@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"HP-ROMAN9\", last modified: Tue Mar  6 08:17:26 2012, max compression, from Unix, original size modulo 2^32 12533",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 12533",
   "mode": "-rw-r--r--",
-  "sha1": "ba9151629be6ea13e197dd2d6586eda4fa603f92"
+  "sha1": "8438403290fd9e07c2f37c8de88f718299fc512f"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"savelog.8\", last modified: Wed Aug 28 05:42:42 2013, max compression, from Unix, original size modulo 2^32 4010",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 4010",
   "mode": "-rw-r--r--",
-  "sha1": "e375a2f1b16fd8f44eab5727de1484d6390e2470"
+  "sha1": "ebbdbbc48eff847dad12c1647589cf834e8ac162"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"tzselect.8\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 1483",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 1516",
   "mode": "-rw-r--r--",
-  "sha1": "a139060f717ec27e46c14e211ba52f0dbfff2859"
+  "sha1": "23df0c9301400a1d02c8911b519e043d81c83603"
 }

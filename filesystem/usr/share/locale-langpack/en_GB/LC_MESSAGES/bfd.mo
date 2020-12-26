@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 46 messages, Project-Id-Version: binutils ' Linkage Pairs Reference Fixups:'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 45 messages, Project-Id-Version: binutils ' [ABI unknown]'",
   "mode": "-rw-r--r--",
-  "sha1": "ba9df4f7e42770fd2b6b420097a3b291c28222e4"
+  "sha1": "11ebbe72b950e4de5c93f62848c1d4414ede2245"
 }

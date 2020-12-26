@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"ischroot.1\", last modified: Wed Aug 28 05:42:42 2013, max compression, from Unix, original size modulo 2^32 947",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 947",
   "mode": "-rw-r--r--",
-  "sha1": "7d9d030bf57b95ee546116ca3b6ed2a28da94820"
+  "sha1": "4531b5fddc0c27b474afe434dbc2e53842b1c193"
 }

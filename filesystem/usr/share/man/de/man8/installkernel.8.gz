@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"installkernel.8\", last modified: Wed Aug 28 05:42:42 2013, max compression, from Unix, original size modulo 2^32 1558",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 1558",
   "mode": "-rw-r--r--",
-  "sha1": "86720a41bd6c5ee371954aec30dec013240c6ace"
+  "sha1": "f7e3347e7aa512f092b6b82ca1d3fc5cc6f1e869"
 }

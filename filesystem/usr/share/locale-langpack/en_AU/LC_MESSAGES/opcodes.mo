@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 17 messages, Project-Id-Version: binutils '  virt            Recognise the virtualisation ASE instructions.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 14 messages, Project-Id-Version: binutils '  msa             Recognise MSA instructions.'",
   "mode": "-rw-r--r--",
-  "sha1": "b3978651f5e934b6b8e146e767b67bb95a6c8dfe"
+  "sha1": "2fc413f84d19078745657025a538877346b75706"
 }

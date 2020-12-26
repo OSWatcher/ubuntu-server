@@ -1,7 +1,0 @@
-{
-  "MIME": "text/html",
-  "inode_type": "REG",
-  "magic_type": "HTML document, ASCII text",
-  "mode": "-rw-r--r--",
-  "sha1": "929410b38146848e8a5a392ff71992c55cec32f2"
-}

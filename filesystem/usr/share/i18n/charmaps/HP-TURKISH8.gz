@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"HP-TURKISH8\", last modified: Tue Mar  6 08:17:28 2012, max compression, from Unix, original size modulo 2^32 12097",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 12097",
   "mode": "-rw-r--r--",
-  "sha1": "36201071087f6a797a44682208035f72329d341b"
+  "sha1": "f17d9b3101cbe623d2a58ce61b61c4987858bb1e"
 }

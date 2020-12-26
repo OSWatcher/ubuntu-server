@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"nologin.5\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 1813",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 1846",
   "mode": "-rw-r--r--",
-  "sha1": "e866cd0f9a5391a69efed64cec4e888b715a5feb"
+  "sha1": "1e28040345809a403e6b1a5c3e522cfd9a622a6c"
 }

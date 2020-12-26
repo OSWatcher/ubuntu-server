@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"console_ioctl.4\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 19085",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 19118",
   "mode": "-rw-r--r--",
-  "sha1": "d0c5878582d7c3566a048fece3f1a3580f820251"
+  "sha1": "14c6ec26d24720caa454d5de66052719d5938d48"
 }

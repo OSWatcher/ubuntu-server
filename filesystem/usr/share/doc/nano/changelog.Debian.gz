@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 3546",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 4054",
   "mode": "-rw-r--r--",
-  "sha1": "0b390a8cd586ebf7848c5a84865cc7ade9b8dad9"
+  "sha1": "3b890d450e54adf212490adcac8de67b03bf0a5f"
 }

@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 9 messages, Project-Id-Version: gnome-video-effects 'Bulges the centre of the video'",
   "mode": "-rw-r--r--",
-  "sha1": "e6a313fcc0fe846fe25094ff291f0bf49f0f5ad7"
+  "sha1": "185a77d64e679ca7627992f7310f373c9a390e23"
 }

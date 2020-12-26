@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"IBM922\", last modified: Tue Mar  6 08:18:40 2012, max compression, from Unix, original size modulo 2^32 11549",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 11549",
   "mode": "-rw-r--r--",
-  "sha1": "c049dd2f89c3658710514fd318e552e27d19d3e3"
+  "sha1": "08996c3182253a3bdbff6bbbbc640469232679fd"
 }

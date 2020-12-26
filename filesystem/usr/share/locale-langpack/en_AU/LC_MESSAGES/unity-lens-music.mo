@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: unity-lens-music 'Authorising purchase'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: unity-lens-music",
   "mode": "-rw-r--r--",
-  "sha1": "d4a250af2a74a32fec8d4eb5a9564c8306f516e1"
+  "sha1": "bd8a33177f92fe3a6799a1a1602b7e5e0bf92a0e"
 }

@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: command-not-found",
   "mode": "-rw-r--r--",
-  "sha1": "7cd4909ae1481839d57f923346dfb965319275fd"
+  "sha1": "537d6c523ecac9cbfef101216f86b51dd515bb2f"
 }

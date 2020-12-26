@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"BIG5-HKSCS\", last modified: Tue Mar  6 08:15:36 2012, max compression, from Unix, original size modulo 2^32 583896",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 593429",
   "mode": "-rw-r--r--",
-  "sha1": "b59d6fa5adc95a5f02c3632de3cd7cf342368faf"
+  "sha1": "b03c0c621fd1ca3c3dbbe8bec1106c08a31d21be"
 }

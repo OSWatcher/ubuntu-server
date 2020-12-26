@@ -1,7 +1,0 @@
-{
-  "MIME": "text/x-tex",
-  "inode_type": "REG",
-  "magic_type": "TeX document, ASCII text",
-  "mode": "-rw-r--r--",
-  "sha1": "9c59ff03f229f5c06fd921f8d67a6240aa7b7e5c"
-}
