@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"libnetcfg.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 5650",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 5854",
   "mode": "-rw-r--r--",
-  "sha1": "8f2394cff0f9f22f77f761839be44fbfa3684321"
+  "sha1": "3d891efae8b46db577c6396e92b7db5c42c319f8"
 }

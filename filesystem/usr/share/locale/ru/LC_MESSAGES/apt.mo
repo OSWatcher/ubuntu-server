@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 254 messages, Project-Id-Version: apt 0.8.15.9 '  \\320\\235\\320\\265\\321\\202 \\320\\267\\320\\260\\320\\277\\320\\270\\321\\201\\320\\270 binary override \\320\\264\\320\\273\\321\\217 %s'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 266 messages, Project-Id-Version: apt rev2227.1.3 '  \\320\\232\\320\\260\\320\\275\\320\\264\\320\\270\\320\\264\\320\\260\\321\\202: '",
   "mode": "-rw-r--r--",
-  "sha1": "bf9f83fce7472bb31b5b6c243f06fe2afd765dac"
+  "sha1": "760b99cc00348ed38f85ea454087fbcdb63124b0"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 866 messages, Project-Id-Version: Debian dpkg 1.16.0 '     No modificado desde la instalaci\\303\\263n.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1016 messages, Project-Id-Version: dpkg 1.16.0 ' disparadores pendientes de paquetes que no son o pueden no ser resolubles:'",
   "mode": "-rw-r--r--",
-  "sha1": "0cd2414532beff4ec715fd53e2a6e49f4e11c213"
+  "sha1": "734210e910545b1dde408977471822e0c9a371f5"
 }

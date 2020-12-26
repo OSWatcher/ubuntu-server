@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: gnome-screenshot",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: gnome-screenshot 'Launchpad Contributions:'",
   "mode": "-rw-r--r--",
-  "sha1": "4364ddc872683591bacc7502d4563bc36716d1d5"
+  "sha1": "267153605ea56168a3a10b997f8df6954cea2646"
 }

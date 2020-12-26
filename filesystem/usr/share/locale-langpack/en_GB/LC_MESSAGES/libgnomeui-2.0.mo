@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 37 messages, Project-Id-Version: libgnomeui HEAD '%a %d %b %T %Y'",
   "mode": "-rw-r--r--",
-  "sha1": "30eed60abc326f38e7de03655ae048bc00236022"
+  "sha1": "57e64379be068a08adecfc6be6cd7155af6c2567"
 }

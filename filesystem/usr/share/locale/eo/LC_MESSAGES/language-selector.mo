@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 102 messages, Project-Id-Version: language-selector '%(INSTALL)d instalotaj'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 59 messages, Project-Id-Version: language-selector '%(INSTALL)d instalota'",
   "mode": "-rw-r--r--",
-  "sha1": "fca84e8e3fb096b6bd2958a18f60fa8ad28ad86f"
+  "sha1": "6c9cfa97d0ce46aeb89d5bc0e4aae3d8849ca385"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 15 messages, Project-Id-Version: Nautilus '%-d/%m/%y, %-I:%M %p'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 8 messages, Project-Id-Version: Nautilus 'Behaviour'",
   "mode": "-rw-r--r--",
-  "sha1": "b1514ef76facbb9bdf115955ec7927f98406c7df"
+  "sha1": "73d3adbd7c4f8f6577dc9d8dc606806ea0208678"
 }

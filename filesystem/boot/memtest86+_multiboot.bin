@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-sharedlib",
-  "inode_type": "REG",
-  "magic_type": "ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped",
-  "mode": "-rw-r--r--",
-  "sha1": "c40ff68ad941bb8704ca9ba01bb3f467cf61e3ee"
-}

@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
-  "inode_type": "LNK",
-  "magic_type": "ASCII text, with no line terminators",
-  "mode": "lrwxrwxrwx",
-  "sha1": "0c65c4035baa8566c2c655545879bc751bdf17a3"
+  "MIME": "text/x-python",
+  "inode_type": "REG",
+  "magic_type": "Python script, ASCII text executable",
+  "mode": "-rw-r--r--",
+  "sha1": "b554528083f48ed0850e7e71906cac13fa438c2a"
 }

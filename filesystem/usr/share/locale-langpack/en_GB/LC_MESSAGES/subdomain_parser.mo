@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: apparmor-parser '%s: Sorry. You need root privileges to run this programme.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 8 messages, Project-Id-Version: apparmor-parser '%s: Sorry. You need root privileges to run this programme.'",
   "mode": "-rw-r--r--",
-  "sha1": "e6937f772de9848e0533837f5c5b868be2acf243"
+  "sha1": "67af838ae0995fac268396a310c66456a8dde2c0"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 468 messages, Project-Id-Version:  '     Nem m\\303\\263dosult a telep\\303\\255t\\303\\251s \\303\\263ta.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 376 messages, Project-Id-Version: dpkg 1.17.0 'Nincs `%s' be\\303\\241ll\\303\\255t\\303\\263 f\\303\\241jl a rendszeren.'",
   "mode": "-rw-r--r--",
-  "sha1": "d6ea5c4c841ffdfd916ef680f2f1c1f36dd089cf"
+  "sha1": "9fa82fb3c280dbc09e291577e6bdbcde97838f73"
 }

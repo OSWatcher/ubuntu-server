@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 3 messages, Project-Id-Version: oneconf 'A OneConf service is already running, shut it down with oneconf-query --stop'",
   "mode": "-rw-r--r--",
-  "sha1": "7355cc0f73cd02b872faaa3af9f1df5fd30c6428"
+  "sha1": "bc0306d47f9a0500b615a16299a79e15c9b2f396"
 }

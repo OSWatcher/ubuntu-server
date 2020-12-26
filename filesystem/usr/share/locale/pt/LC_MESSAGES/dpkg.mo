@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 866 messages, Project-Id-Version: dpkg 1.14 '     N\\303\\243o foi modificado desde a instala\\303\\247\\303\\243o.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1016 messages, Project-Id-Version: dpkg 1.14 ' 'triggers' pendentes de pacotes que s\\303\\243o ou poder\\303\\243o ser n\\303\\243o solucionados:'",
   "mode": "-rw-r--r--",
-  "sha1": "4ba8c254530e48c98b746a21c19200d86c58d0cf"
+  "sha1": "63f4d910b6ab7c2ff0f2cba3ecb60da1220e3ebc"
 }

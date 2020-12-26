@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 220 messages, Project-Id-Version: nn 'Abkhasisk'",
   "mode": "-rw-r--r--",
-  "sha1": "e36dc629548adc38b374bfbd9e6687f5c93b90be"
+  "sha1": "da9bdff24ddbb735fb2f6d390484c62a5ea3173d"
 }

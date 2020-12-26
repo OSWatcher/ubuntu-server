@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 234 messages, Project-Id-Version: apt '  %s har ingen bin\\303\\246roverstyringsoppf\\303\\270ring heller'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 245 messages, Project-Id-Version: apt '  Kandidat: '",
   "mode": "-rw-r--r--",
-  "sha1": "b50480642cbd5516769267a86d9cbf2169aaf070"
+  "sha1": "f0252963f77b4f0c6cad24abaefb34c33b949c0a"
 }

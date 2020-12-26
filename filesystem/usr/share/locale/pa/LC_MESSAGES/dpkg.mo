@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 97 messages, Project-Id-Version: pa '\\340\\250\\270\\340\\251\\260\\340\\250\\260\\340\\250\\232\\340\\250\\250\\340\\250\\276 \\340\\250\\253\\340\\250\\276\\340\\250\\207\\340\\250\\262 `%s''",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 81 messages, Project-Id-Version: dpkg 1.17.0 '     not a plain file          %.255s'",
   "mode": "-rw-r--r--",
-  "sha1": "cd1dc1f0676e6e507eb3e8d4c7a7873a9e7d125f"
+  "sha1": "1bc9f8911adaee3c7cc4c40625c9be8af323eb30"
 }

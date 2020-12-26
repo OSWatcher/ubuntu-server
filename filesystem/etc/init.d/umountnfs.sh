@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "POSIX shell script, ASCII text executable",
   "mode": "-rwxr-xr-x",
-  "sha1": "eb9614a02b067b96f7c8f452e78b26d3174025b3"
+  "sha1": "22575ab6b07fe306b8ea436db6c86460c65146e7"
 }

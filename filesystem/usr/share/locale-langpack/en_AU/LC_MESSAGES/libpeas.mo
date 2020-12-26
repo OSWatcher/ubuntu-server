@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: libpeas",
   "mode": "-rw-r--r--",
-  "sha1": "7204d2f3f9f83abb31892bac3e0b49d6dd544015"
+  "sha1": "2056866c5839677a604205595d635a7d82555036"
 }

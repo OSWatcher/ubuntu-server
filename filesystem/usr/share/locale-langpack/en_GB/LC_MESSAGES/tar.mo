@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 13 messages, Project-Id-Version: tar 'Report bugs to: %s'",
   "mode": "-rw-r--r--",
-  "sha1": "9144a510200e4643170fe58f7e9778d9f71df428"
+  "sha1": "0c05b30cd969b5101132054d3bc801d0331bdb60"
 }

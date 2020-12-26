@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"podchecker.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 6003",
+  "magic_type": "gzip compressed data, max compression, from Unix, original size modulo 2^32 6212",
   "mode": "-rw-r--r--",
-  "sha1": "8c71d195b71a51461eee73d802bec51b6cc54e8a"
+  "sha1": "304f8f04d386ffbdc0ac0934d5b0c1af95533f72"
 }

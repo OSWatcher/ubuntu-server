@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 183 messages, Project-Id-Version: apt_nn '  %s har inga overstyringsoppf\\370ring'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 199 messages, Project-Id-Version: apt_nn '  Kandidat: '",
   "mode": "-rw-r--r--",
-  "sha1": "210eb02e3da0addecc2c9b06a70a589eacdb9e7b"
+  "sha1": "c6307f765e2a1726fd8c61cb7b9cae9d12d04e30"
 }

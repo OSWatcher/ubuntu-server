@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 6 messages, Project-Id-Version: libgnomekbd 'The background colour'",
   "mode": "-rw-r--r--",
-  "sha1": "a826d3bf1f90ce22ac04c1f6fe7a82a67eb76e8b"
+  "sha1": "733ef3b373b9e2baca9ce3ca334a320fb6e5e523"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 2 messages, Project-Id-Version: unity-greeter 'Favourite Colour (blue):'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: unity-greeter",
   "mode": "-rw-r--r--",
-  "sha1": "4376d90d12939598c09ef186a57d65a3e1388ca4"
+  "sha1": "c0ac2fda855f25b94b5dbdfb45d8fc483e6071b0"
 }

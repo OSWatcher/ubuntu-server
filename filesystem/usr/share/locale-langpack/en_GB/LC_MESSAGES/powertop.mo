@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 6 messages, Project-Id-Version: powertop '                Usage Events/s Category Description'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 10 messages, Project-Id-Version: PowerTOP '              Usage Device name'",
   "mode": "-rw-r--r--",
-  "sha1": "6880be579a0c37c360189900e7475026af92bf0c"
+  "sha1": "d6909791ea7d953201133c6c94d8694c75b280b2"
 }

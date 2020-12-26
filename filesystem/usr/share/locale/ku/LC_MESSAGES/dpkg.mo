@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 83 messages, Project-Id-Version: dpkg '     Ji dema sazkirin\\303\\252 ve nehatiye guherandin.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 55 messages, Project-Id-Version: dpkg 1.17.0 '     Ferq nav versiyona di pak\\303\\252t\\303\\252 \\303\\273 versiyona sazkir\\303\\256 ya daw\\303\\256 tune.'",
   "mode": "-rw-r--r--",
-  "sha1": "9378a899050a5eef3e7795f8adde4c80cb5b35c0"
+  "sha1": "a5cc688dc5f7b5a528cb1254bf70f7998be33351"
 }

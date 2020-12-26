@@ -1,7 +1,0 @@
-{
-  "MIME": "application/gzip",
-  "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"motd.tail.5\", last modified: Thu Mar 22 19:36:07 2012, max compression, from Unix, original size modulo 2^32 2374",
-  "mode": "-rw-r--r--",
-  "sha1": "d5d8ea07b80c30a3d2ad1b1ef8b647f20aa27b21"
-}

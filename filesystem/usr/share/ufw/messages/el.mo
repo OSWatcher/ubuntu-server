@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 173 messages, Project-Id-Version: ufw",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 172 messages, Project-Id-Version: ufw",
   "mode": "-rw-r--r--",
-  "sha1": "c6b723b20a932f062d08a601b0bbd52d5b2d2493"
+  "sha1": "300711933d3ab4e0a0b75cfba6edd65c1622842f"
 }

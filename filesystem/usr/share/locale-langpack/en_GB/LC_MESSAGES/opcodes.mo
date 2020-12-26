@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 23 messages, Project-Id-Version: binutils '  addr16 Assume 16bit address size'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 28 messages, Project-Id-Version: binutils '  no-aliases         Do not print instruction aliases.'",
   "mode": "-rw-r--r--",
-  "sha1": "ba21f88a0b169ed8d84779e7d1d3eed4bb600ea0"
+  "sha1": "a8b0817265191b8d77d59946de9924dfa19d26cd"
 }

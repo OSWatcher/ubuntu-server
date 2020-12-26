@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"charmap.5\", last modified: Tue Oct  4 06:34:45 2011, max compression, from Unix, original size modulo 2^32 3922",
+  "magic_type": "gzip compressed data, was \"charmap.5\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 3877",
   "mode": "-rw-r--r--",
-  "sha1": "2ba4dc4b8a2361e707748ca25a1e378939b5f13e"
+  "sha1": "5ab568608cd53e004fee78f3c7518c6563e70e3b"
 }

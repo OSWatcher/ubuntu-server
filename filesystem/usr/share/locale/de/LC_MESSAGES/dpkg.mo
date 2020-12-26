@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 1024 messages, Project-Id-Version: Debian dpkg 1.16.1~ '     Nicht modifiziert seit der Installation.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 1087 messages, Project-Id-Version: dpkg 1.17.4 ' anh\\303\\244ngige Trigger von Paketen, die nicht aufl\\303\\266sbar sind oder sein k\\303\\266nnten:'",
   "mode": "-rw-r--r--",
-  "sha1": "bbd6d23b6756d2fce45b9c43d5f0d34d37d60aae"
+  "sha1": "9924fe0438a2e810af00073cff52948eb4bba275"
 }

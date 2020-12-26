@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 753 messages, Project-Id-Version: e2fsprogs 1.41.1 '\\007\\007\\007AV\\303\\215S: El fitxer /etc/fstab no cont\\303\\251 el camp passno de l'fsck.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 685 messages, Project-Id-Version: e2fsprogs 1.42.8 '\\011%Q (@i #%i, hora de modificaci\\303\\263 %IM)'",
   "mode": "-rw-r--r--",
-  "sha1": "917b73096361232a77ed4a7f3bf0dcda63de5163"
+  "sha1": "119c260f5a803d4668e426538b6663f9cec0c0c7"
 }

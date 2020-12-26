@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 19 messages, Project-Id-Version: baobab 'A graphical tool to analyse disk usage.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 9 messages, Project-Id-Version: baobab '- Disk Usage Analyser'",
   "mode": "-rw-r--r--",
-  "sha1": "80a54b8e10d8baf522a59db188b0816a1984ab37"
+  "sha1": "5b14433ec0333d44d8464aa724f377519f9ea280"
 }

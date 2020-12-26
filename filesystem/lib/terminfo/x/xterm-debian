@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-terminfo",
-  "inode_type": "REG",
-  "magic_type": "Compiled terminfo entry \"xterm-debian\"",
-  "mode": "-rw-r--r--",
-  "sha1": "774841fbe519df99ac62c924794df9632fe287c0"
+  "MIME": "text/plain",
+  "inode_type": "LNK",
+  "magic_type": "ASCII text, with no line terminators",
+  "mode": "lrwxrwxrwx",
+  "sha1": "e2e28a8eb171e8219151a13b9466dafc7af786c2"
 }

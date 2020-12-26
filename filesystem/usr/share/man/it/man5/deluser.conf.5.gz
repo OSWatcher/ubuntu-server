@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"deluser.conf.5\", last modified: Wed Oct 19 22:01:32 2011, max compression, from Unix, original size modulo 2^32 3282",
+  "magic_type": "gzip compressed data, was \"deluser.conf.5\", last modified: Thu Nov  7 14:14:55 2013, max compression, from Unix, original size modulo 2^32 3303",
   "mode": "-rw-r--r--",
-  "sha1": "ec443231658ba1827bf0275ba192f5f93164f3e5"
+  "sha1": "2f4b66020e5cdadb4cff3cebfa1232f18dd772b2"
 }

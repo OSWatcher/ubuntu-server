@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 419 messages, Project-Id-Version: dpkg 1.13 '     Hindi binago magmula ng iniluklok ito.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 340 messages, Project-Id-Version: dpkg 1.13 'Ang talaksang pagkaayos `%s' ay wala sa sistema.'",
   "mode": "-rw-r--r--",
-  "sha1": "c6fecdf5501d8a6a13f8fb9d53c7cbb9c04bd8d7"
+  "sha1": "208d5ef83e7af11548b7a027d2ce97c7fd86babd"
 }

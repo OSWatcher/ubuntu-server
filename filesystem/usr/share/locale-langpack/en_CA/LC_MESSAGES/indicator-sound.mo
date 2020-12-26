@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: indicator-sound",
   "mode": "-rw-r--r--",
-  "sha1": "a7acc4eb928a3b17b77a869e5906b2718dbbbde9"
+  "sha1": "2255c797e5f35e53acb16099ad85abd29a879146"
 }

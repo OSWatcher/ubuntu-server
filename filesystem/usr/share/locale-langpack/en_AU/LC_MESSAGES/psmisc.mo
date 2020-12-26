@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "GNU message catalog (little endian), revision 0.0, 1 message, Project-Id-Version: psmisc",
   "mode": "-rw-r--r--",
-  "sha1": "ad3a0fba8c6ec3a6c389c6aab4a063a8d778a0ff"
+  "sha1": "958a95437cd02fa5b593396ac149c7bf9f46af23"
 }

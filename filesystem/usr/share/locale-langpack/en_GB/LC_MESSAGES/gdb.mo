@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 148 messages, Project-Id-Version: gdb '  -b BAUDRATE        Set serial port baud rate used for remote debugging.'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 160 messages, Project-Id-Version: gdb '\"%s\": no core file handler recognises format'",
   "mode": "-rw-r--r--",
-  "sha1": "0a90b37210ec56386edd0eede9582493b46d22d3"
+  "sha1": "137dd2ddfd3f139b130829f9be5f8e23eaae818c"
 }

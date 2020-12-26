@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 5 messages, Project-Id-Version: simple-scan 'TRUE if the application window is maximised'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 4 messages, Project-Id-Version: simple-scan 'Type of document being scanned. This setting decides on the scan resolution, colours and post-p'",
   "mode": "-rw-r--r--",
-  "sha1": "c99fe09846e50e4dc7fb447fd129c910a560b1de"
+  "sha1": "e480af987518a122c7f2c910f4c45c597d40d0d0"
 }

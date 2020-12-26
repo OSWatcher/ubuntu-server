@@ -1,19 +1,19 @@
 {
   "ELF": {
-    "canary": 53.8,
+    "canary": 51.9,
     "fortified": 0.0,
     "fortify_score": 0.0,
-    "fortify_score_100": 13.5,
-    "fortify_source": 62.1,
+    "fortify_score_100": 15.0,
+    "fortify_source": 63.4,
     "fortifyable": 0.0,
-    "nx": 96.0,
+    "nx": 97.4,
     "pie": 100.0,
     "relro": 100.0,
-    "rpath": 1.8,
-    "runpath": 0.0,
-    "symbols": 0.8
+    "rpath": 0.9,
+    "runpath": 0.7,
+    "symbols": 1.0
   },
-  "ELF_count": 1417,
+  "ELF_count": 1511,
   "PE": {
     "cat_filepath": 0,
     "dynamic_base": 0,
@@ -26,5 +26,5 @@
     "signed": 0
   },
   "PE_count": 0,
-  "total": 1417
+  "total": 1511
 }

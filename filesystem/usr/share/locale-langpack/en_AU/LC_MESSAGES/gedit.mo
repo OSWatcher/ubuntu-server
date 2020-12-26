@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 26 messages, Project-Id-Version: gedit 'Analyses the current document and reports the number of words, lines, characters and non-space '",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 26 messages, Project-Id-Version: gedit 'C_ommand colour:'",
   "mode": "-rw-r--r--",
-  "sha1": "a6dbf5d028424d005f13b2ddf47599eb62f55c9d"
+  "sha1": "a6b6e5dcad38f52d2d574313abedddbd9710b7bc"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-font-pf2",
   "inode_type": "REG",
-  "magic_type": "GRUB2 font \"Unknown Regular 16\"",
+  "magic_type": "GRUB2 font \"Unifont Regular 16\"",
   "mode": "-rw-r--r--",
-  "sha1": "b25f078c267070df10d3cba42dcbbdf95187ab37"
+  "sha1": "011fd1a992c05e5a11450babb448422be2dac1b1"
 }

@@ -1,7 +1,0 @@
-{
-  "MIME": "application/gzip",
-  "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"rfc1522.txt\", last modified: Mon Nov 15 08:07:32 2010, max compression, from Unix, original size modulo 2^32 419",
-  "mode": "-rw-r--r--",
-  "sha1": "025decc52861a1135744367b72ce87a78dde2efe"
-}

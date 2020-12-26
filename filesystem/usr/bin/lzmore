@@ -1,7 +1,7 @@
 {
   "MIME": "text/plain",
   "inode_type": "LNK",
-  "magic_type": "MGR bitmap, old format, 1-bit deep, 32-bit aligned",
+  "magic_type": "ASCII text, with no line terminators",
   "mode": "lrwxrwxrwx",
-  "sha1": "59ce44ebf8c4cd3bdf024d39dad4e00c1f9da05e"
+  "sha1": "e17ae5cffcd79daf02b9e7d06b59e3d6c4d3371d"
 }

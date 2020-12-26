@@ -2,6 +2,6 @@
   "MIME": "text/x-python",
   "inode_type": "REG",
   "magic_type": "Python script, ISO-8859 text executable",
-  "mode": "-rwxr-xr-x",
-  "sha1": "f46b37453c7285014cd4025d8b8de80afa85e1c8"
+  "mode": "-rw-r--r--",
+  "sha1": "0ed38b9d11af0c54d720121b9519de2d2a294558"
 }

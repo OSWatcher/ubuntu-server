@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"mailaddr.7\", last modified: Tue Oct  4 06:34:45 2011, max compression, from Unix, original size modulo 2^32 4401",
+  "magic_type": "gzip compressed data, was \"mailaddr.7\", last modified: Tue Sep 17 06:27:58 2013, max compression, from Unix, original size modulo 2^32 4459",
   "mode": "-rw-r--r--",
-  "sha1": "97f0942f67e79261d083a5fe4e1116528343e09a"
+  "sha1": "084af64323b6e325928ec8dc53a6523b876869d6"
 }

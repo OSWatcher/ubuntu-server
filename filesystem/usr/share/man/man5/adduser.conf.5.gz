@@ -1,7 +1,7 @@
 {
   "MIME": "application/gzip",
   "inode_type": "REG",
-  "magic_type": "gzip compressed data, was \"adduser.conf.5\", last modified: Wed Oct 19 22:01:32 2011, max compression, from Unix, original size modulo 2^32 5297",
+  "magic_type": "gzip compressed data, was \"adduser.conf.5\", last modified: Thu Nov  7 14:14:55 2013, max compression, from Unix, original size modulo 2^32 5302",
   "mode": "-rw-r--r--",
-  "sha1": "3e03180976d583a0ec1c8d00130386daeaa29459"
+  "sha1": "d6e12fe8c41a987802b60d3fd54a04d0d057a2c9"
 }

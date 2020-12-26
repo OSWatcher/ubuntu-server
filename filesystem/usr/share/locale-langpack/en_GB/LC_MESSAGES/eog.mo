@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-gettext-translation",
   "inode_type": "REG",
-  "magic_type": "GNU message catalog (little endian), revision 0.0, 31 messages, Project-Id-Version: eog 'A wastebasket for \"%s\" couldn't be found. Do you want to remove this image permanently?'",
+  "magic_type": "GNU message catalog (little endian), revision 0.0, 32 messages, Project-Id-Version: eog 'A wastebasket for \"%s\" couldn't be found. Do you want to remove this image permanently?'",
   "mode": "-rw-r--r--",
-  "sha1": "ea974495535b5b26f3b5ba4a641a251b65105536"
+  "sha1": "ca7941b6d2cbfd66e82780aee68664eedd57d791"
 }
