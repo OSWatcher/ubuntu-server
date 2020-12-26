@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"sedfaq.txt\", last modified: Fri Feb 11 21:57:03 2011, max compression, from Unix, original size modulo 2^32 163726",
+  "mode": "-rw-r--r--",
+  "sha1": "a1b116bb547f88a5d70b468c3fa63e546000d773"
+}

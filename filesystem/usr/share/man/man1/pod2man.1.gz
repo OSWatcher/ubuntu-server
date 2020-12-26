@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"pod2man.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 14943",
+  "mode": "-rw-r--r--",
+  "sha1": "c798a070ede4f795778051d3270f7e4e7fff5108"
+}

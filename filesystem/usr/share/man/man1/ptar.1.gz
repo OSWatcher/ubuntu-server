@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"ptar.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 4866",
+  "mode": "-rw-r--r--",
+  "sha1": "a5fc7f57c97ae0440281ba1f2bff6ca9418e9439"
+}

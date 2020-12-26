@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"run-parts.8\", last modified: Thu Mar 29 19:08:59 2012, max compression, from Unix, original size modulo 2^32 4725",
+  "mode": "-rw-r--r--",
+  "sha1": "0a6876ea02eb18f39b0f23adb20ff72fe580676e"
+}

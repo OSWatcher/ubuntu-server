@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"munge-symlinks\", last modified: Tue Nov 27 15:34:59 2007, max compression, from Unix, original size modulo 2^32 1462",
+  "mode": "-rw-r--r--",
+  "sha1": "de1847c204b056fbdf8ee68a6843c602b24f346b"
+}

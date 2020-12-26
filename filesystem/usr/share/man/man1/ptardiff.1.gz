@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"ptardiff.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 4780",
+  "mode": "-rw-r--r--",
+  "sha1": "b9465cf2170229789e4188a2ce3cdabf1ef67640"
+}

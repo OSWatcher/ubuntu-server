@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"cpio.info\", last modified: Sun Apr  1 18:24:08 2012, max compression, from Unix, original size modulo 2^32 20142",
+  "mode": "-rw-r--r--",
+  "sha1": "1a27a347f12b8f90bb1837222a9ca265a844bde9"
+}

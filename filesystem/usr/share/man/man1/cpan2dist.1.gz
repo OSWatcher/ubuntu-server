@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"cpan2dist.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 13653",
+  "mode": "-rw-r--r--",
+  "sha1": "5fc713d345b2ebea9db94469844bd15468b6253d"
+}

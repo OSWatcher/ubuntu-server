@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"perlivp.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 7433",
+  "mode": "-rw-r--r--",
+  "sha1": "565b2cf496c1941f52c3a235dc2ab63d623e9595"
+}

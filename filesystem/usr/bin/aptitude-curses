@@ -1,0 +1,7 @@
+{
+  "MIME": "application/x-executable",
+  "inode_type": "REG",
+  "magic_type": "ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, BuildID[sha1]=0ff2bdc87211be697e96a8ae58a27653543e3b7f, stripped",
+  "mode": "-rwxr-xr-x",
+  "sha1": "8798b5175890427a59058fc794959d64a0e47241"
+}

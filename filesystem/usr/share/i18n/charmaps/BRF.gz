@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"BRF\", last modified: Tue Mar  6 08:15:37 2012, max compression, from Unix, original size modulo 2^32 4823",
+  "mode": "-rw-r--r--",
+  "sha1": "1de84c0d29a43d1d2eb731d331a303da20b47bd6"
+}

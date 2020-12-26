@@ -1,0 +1,7 @@
+{
+  "MIME": "text/plain",
+  "inode_type": "REG",
+  "magic_type": "Perl5 module source, ASCII text",
+  "mode": "-rw-r--r--",
+  "sha1": "2fe8e788f92f4dfe4a8e7d099ad8296ac9cab7e4"
+}

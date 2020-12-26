@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"bind_textdomain_codeset.3\", last modified: Sat Dec  3 02:34:47 2011, max compression, from Unix, original size modulo 2^32 2865",
+  "mode": "-rw-r--r--",
+  "sha1": "8630a21ed04bb29aa7a3df0d49008fee140586c0"
+}

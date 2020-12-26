@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"feature_test_macros.7\", last modified: Tue Oct  4 06:34:45 2011, max compression, from Unix, original size modulo 2^32 16676",
+  "mode": "-rw-r--r--",
+  "sha1": "e96732f4be60bd8dd9ab3aaba45dd8ae2cced385"
+}

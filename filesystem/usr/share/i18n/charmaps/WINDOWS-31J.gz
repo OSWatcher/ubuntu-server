@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"WINDOWS-31J\", last modified: Tue Mar  6 08:20:58 2012, max compression, from Unix, original size modulo 2^32 340047",
+  "mode": "-rw-r--r--",
+  "sha1": "728f8420751f38f20b2dcc22ea624b9466d480b4"
+}

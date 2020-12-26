@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"shasum.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 6304",
+  "mode": "-rw-r--r--",
+  "sha1": "738236b3c75fc89632a1bf8e42eef0c4cdff7792"
+}

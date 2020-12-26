@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"nsswitch.conf.5\", last modified: Thu Mar 22 19:36:07 2012, max compression, from Unix, original size modulo 2^32 8157",
+  "mode": "-rw-r--r--",
+  "sha1": "fd1716bdb9b1119f9f5562a227a93b3f0fe47055"
+}

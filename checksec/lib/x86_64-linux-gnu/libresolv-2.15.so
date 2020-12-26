@@ -1,0 +1,1 @@
+{"relro": "Partial", "canary": true, "nx": true, "pie": "DSO", "rpath": false, "runpath": false, "symbols": false, "fortify_source": false, "fortified": 0, "fortifyable": 11, "fortify_score": 0}

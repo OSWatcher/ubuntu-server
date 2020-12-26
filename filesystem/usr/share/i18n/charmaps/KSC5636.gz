@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"KSC5636\", last modified: Tue Mar  6 08:19:50 2012, max compression, from Unix, original size modulo 2^32 5641",
+  "mode": "-rw-r--r--",
+  "sha1": "e1ff377a04aa5814cb39007720d49db66f1689ec"
+}

@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"EBCDIC-FR\", last modified: Tue Mar  6 08:16:34 2012, max compression, from Unix, original size modulo 2^32 7408",
+  "mode": "-rw-r--r--",
+  "sha1": "a30c653cdac61c0804ef819f1877f1ddef470064"
+}

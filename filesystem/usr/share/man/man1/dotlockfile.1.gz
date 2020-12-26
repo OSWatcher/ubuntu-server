@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"dotlockfile.1\", last modified: Mon Oct 17 12:13:23 2011, max compression, from Unix, original size modulo 2^32 4351",
+  "mode": "-rw-r--r--",
+  "sha1": "4ffc45292f1d6cfa64f3f0242a6f6e40244ae060"
+}

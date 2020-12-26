@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"mailname.5\", last modified: Thu Mar 22 19:36:07 2012, max compression, from Unix, original size modulo 2^32 1674",
+  "mode": "-rw-r--r--",
+  "sha1": "c134fcec76250a519cb622b977eb27fd00a3ff7a"
+}

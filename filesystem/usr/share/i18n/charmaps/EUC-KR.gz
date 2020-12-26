@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"EUC-KR\", last modified: Tue Mar  6 08:16:56 2012, max compression, from Unix, original size modulo 2^32 314549",
+  "mode": "-rw-r--r--",
+  "sha1": "14a27d5860cf9938d4b77fc215add5dc04d6c44f"
+}

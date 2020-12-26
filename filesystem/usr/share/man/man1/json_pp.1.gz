@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"json_pp.1\", last modified: Fri Mar 23 17:29:20 2012, max compression, from Unix, original size modulo 2^32 6645",
+  "mode": "-rw-r--r--",
+  "sha1": "4eacb8e29a58407f489655ed6c448729bd0a183f"
+}

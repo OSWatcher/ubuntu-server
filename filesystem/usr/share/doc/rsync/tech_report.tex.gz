@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"tech_report.tex\", last modified: Mon Nov 23 00:30:27 1998, max compression, from Unix, original size modulo 2^32 14675",
+  "mode": "-rw-r--r--",
+  "sha1": "d295f69e609932cfed3481b11c786810d64f33c7"
+}

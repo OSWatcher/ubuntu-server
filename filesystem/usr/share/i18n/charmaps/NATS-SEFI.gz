@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"NATS-SEFI\", last modified: Tue Mar  6 08:20:09 2012, max compression, from Unix, original size modulo 2^32 5819",
+  "mode": "-rw-r--r--",
+  "sha1": "655b46bf235485dacdda233b9f588237d7df74f2"
+}

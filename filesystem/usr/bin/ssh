@@ -1,0 +1,7 @@
+{
+  "MIME": "application/x-sharedlib",
+  "inode_type": "REG",
+  "magic_type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, BuildID[sha1]=4677b1e661d8dd75f33db7cc80dbf53a6d52e278, stripped",
+  "mode": "-rwxr-xr-x",
+  "sha1": "cdb6989eb93d0c37426aedd95a06ad1c3f352cf4"
+}

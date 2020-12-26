@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"ISO_5427-EXT\", last modified: Tue Mar  6 08:19:17 2012, max compression, from Unix, original size modulo 2^32 3968",
+  "mode": "-rw-r--r--",
+  "sha1": "e0351d4765cd1377d27a018ef2aeb8bffdbd971e"
+}

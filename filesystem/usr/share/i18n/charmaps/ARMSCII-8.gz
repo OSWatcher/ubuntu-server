@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"ARMSCII-8\", last modified: Tue Mar  6 08:15:26 2012, max compression, from Unix, original size modulo 2^32 11173",
+  "mode": "-rw-r--r--",
+  "sha1": "61ca56cee2a0ad93a2210d56687924d403b43ddc"
+}

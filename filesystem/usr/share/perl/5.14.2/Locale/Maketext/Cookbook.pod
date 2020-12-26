@@ -1,0 +1,7 @@
+{
+  "MIME": "text/plain",
+  "inode_type": "REG",
+  "magic_type": "Perl POD document, UTF-8 Unicode text",
+  "mode": "-rw-r--r--",
+  "sha1": "f4073dc54693e9748e737b6248c3877139641513"
+}

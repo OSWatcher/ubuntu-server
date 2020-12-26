@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"pthreads.7\", last modified: Tue Oct  4 06:34:45 2011, max compression, from Unix, original size modulo 2^32 21936",
+  "mode": "-rw-r--r--",
+  "sha1": "0bac66adfbf5782ad25634b1f77205dda133124b"
+}

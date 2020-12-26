@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"cvs2includes\", last modified: Wed Mar 21 13:51:54 2007, max compression, from Unix, original size modulo 2^32 1212",
+  "mode": "-rw-r--r--",
+  "sha1": "0566d3f6fc06b162638275afcad1d6fd90f485fb"
+}

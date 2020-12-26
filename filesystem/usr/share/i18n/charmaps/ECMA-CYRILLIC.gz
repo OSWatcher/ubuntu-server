@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"ECMA-CYRILLIC\", last modified: Tue Mar  6 08:16:43 2012, max compression, from Unix, original size modulo 2^32 12431",
+  "mode": "-rw-r--r--",
+  "sha1": "d685d326c5f7b35d2ee4c53a435b2418884a82ba"
+}

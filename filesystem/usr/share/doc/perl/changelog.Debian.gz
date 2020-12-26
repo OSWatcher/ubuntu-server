@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"changelog.Debian\", last modified: Fri Mar 23 14:59:30 2012, max compression, from Unix, original size modulo 2^32 142746",
+  "mode": "-rw-r--r--",
+  "sha1": "8d961c6a751232134292e78b03bf4529036b83e6"
+}

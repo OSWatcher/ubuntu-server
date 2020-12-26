@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"IBM850\", last modified: Tue Mar  6 08:18:05 2012, max compression, from Unix, original size modulo 2^32 12624",
+  "mode": "-rw-r--r--",
+  "sha1": "3602cce8a144adc5cf8d718cd4a90eaec9ab458b"
+}

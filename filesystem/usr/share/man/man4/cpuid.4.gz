@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"cpuid.4\", last modified: Tue Oct  4 06:34:45 2011, max compression, from Unix, original size modulo 2^32 3220",
+  "mode": "-rw-r--r--",
+  "sha1": "f4ff65e12d99ffc5119b674ad267e942b4c31be7"
+}

@@ -1,0 +1,30 @@
+{
+  "ELF": {
+    "canary": 53.8,
+    "fortified": 0.0,
+    "fortify_score": 0.0,
+    "fortify_score_100": 13.5,
+    "fortify_source": 62.1,
+    "fortifyable": 0.0,
+    "nx": 96.0,
+    "pie": 100.0,
+    "relro": 100.0,
+    "rpath": 1.8,
+    "runpath": 0.0,
+    "symbols": 0.8
+  },
+  "ELF_count": 1417,
+  "PE": {
+    "cat_filepath": 0,
+    "dynamic_base": 0,
+    "force_integrity": 0,
+    "guard_cf": 0,
+    "high_entropy_va": 0,
+    "manifest_isolation": 0,
+    "nx_compat": 0,
+    "seh": 0,
+    "signed": 0
+  },
+  "PE_count": 0,
+  "total": 1417
+}

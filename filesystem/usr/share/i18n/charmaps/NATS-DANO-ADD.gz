@@ -1,0 +1,7 @@
+{
+  "MIME": "application/gzip",
+  "inode_type": "REG",
+  "magic_type": "gzip compressed data, was \"NATS-DANO-ADD\", last modified: Tue Mar  6 08:20:07 2012, max compression, from Unix, original size modulo 2^32 5641",
+  "mode": "-rw-r--r--",
+  "sha1": "dd417da4a2006e89f4c59cfce62d31302db7cf3d"
+}
